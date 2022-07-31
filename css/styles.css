@@ -590,6 +590,10 @@ body {
     margin-bottom: 0;
 }
 
+.current {
+    color: var(--accent-color);
+}
+
 
 /* ========== Header ========== */
 
